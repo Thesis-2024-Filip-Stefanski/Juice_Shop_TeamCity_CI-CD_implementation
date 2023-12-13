@@ -3,7 +3,7 @@ env:
   contexts:
   - name: "Default Context"
     urls:
-    - "http://NPM:3000"
+    - "http://localhost:3000"
     includePaths: []
     excludePaths: []
     authentication:
